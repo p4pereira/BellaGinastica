@@ -1,0 +1,8 @@
+# Arquivos locais do editor e do sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dados locais desta prévia (não publicar)
+.env
+*.log
